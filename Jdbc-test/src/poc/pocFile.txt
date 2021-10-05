@@ -1,0 +1,4 @@
+06	Samu	Anan	100 
+07	Raj	Kumar	102 
+08	Bhav	Cha	103 
+10	Kow	Sam	105 
